@@ -45,7 +45,7 @@ This template includes a complete user authentication system, role & permission 
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/sufiun27/laravel-auth-template.git
+git clone https://github.com/sufiun27/Laravel-Custom-Authentication-and-Authorization-Template.git
 ```
 
 ---
